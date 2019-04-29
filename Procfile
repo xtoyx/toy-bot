@@ -1,0 +1,1 @@
+wroker : node bot.js
