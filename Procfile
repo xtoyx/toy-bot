@@ -1,1 +1,1 @@
-wroker : node bot.js
+wroker : node index.js
