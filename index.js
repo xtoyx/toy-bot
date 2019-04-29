@@ -50,4 +50,4 @@ disco.on("message", message => {
 
 });
 
-disco.login(botconfig.token);
+disco.login(process.env.BOT_TOKEN);
