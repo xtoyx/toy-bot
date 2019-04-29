@@ -1,3 +1,0 @@
-# toy-bot
-firstbot
-idfk 
